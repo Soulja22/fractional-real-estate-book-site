@@ -4,7 +4,7 @@ This draft presents *Fractional Real Estate* by Dr Daniel Moses as an officially
 
 | Area | Before | Draft after |
 | --- | --- | --- |
-| Homepage hero | Generic book announcement and an updates CTA | “Officially launched · Available now,” a present-tense description, and “Buy the Book — £20” |
+| Homepage hero | Generic book announcement and an updates CTA | “Officially launched · Available now,” a present-tense description, and “Buy the Book” |
 | Book cover | “THE BOOK” badge | “AVAILABLE NOW” badge |
 | Educational and author sections | Update/information buttons | Book purchase buttons; educational copy and disclaimers retained |
 | Purchase question | Asked how to get more information | Explains the £20 Stripe checkout and distinguishes it from the separate updates form |
